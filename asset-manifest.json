@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5dc66316.css",
+    "main.js": "/static/js/main.1674f90e.js",
+    "static/js/787.411c5caf.chunk.js": "/static/js/787.411c5caf.chunk.js",
+    "static/media/tonikroos.jpg": "/static/media/tonikroos.fb061c76e3ec05875a55.jpg",
+    "static/media/grasspic.jpg": "/static/media/grasspic.60d418585600b05647eb.jpg",
+    "static/media/Product_Sans.ttf": "/static/media/Product_Sans.863727019c4716c4dc24.ttf",
+    "static/media/christiano.jpg": "/static/media/christiano.6c59ff44f69c755a3933.jpg",
+    "static/media/zidane.jpg": "/static/media/zidane.b7444a37d5bbb4202777.jpg",
+    "static/media/Gobold_Regular.otf": "/static/media/Gobold_Regular.5576dd47e1aa896baaf9.otf",
+    "static/media/medium.png": "/static/media/medium.b87629cbe6267bf69b33.png",
+    "static/media/ikercasillas.jpg": "/static/media/ikercasillas.3d1a1e063e58e3314681.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.5dc66316.css.map": "/static/css/main.5dc66316.css.map",
+    "main.1674f90e.js.map": "/static/js/main.1674f90e.js.map",
+    "787.411c5caf.chunk.js.map": "/static/js/787.411c5caf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dc66316.css",
+    "static/js/main.1674f90e.js"
+  ]
+}
